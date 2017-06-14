@@ -1,0 +1,12 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccountPortfolio\BankAccountPortfolio\bin\Debug\BankAccountPortfolio.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccountPortfolio\BankAccountPortfolio\bin\Debug\BankAccountPortfolio.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccountPortfolio\BankAccountPortfolio\bin\Debug\BankAccountPortfolio.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccountPortfolio\BankAccountPortfolio\obj\Debug\BankAccountPortfolio.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccountPortfolio\BankAccountPortfolio\obj\Debug\BankAccountPortfolio.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccountPortfolio\BankAccountPortfolio\obj\Debug\BankAccountPortfolio.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\GitHub Projects\BankAccountPortfolio\BankAccountPortfolio\bin\Debug\BankAccountPortfolio.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\GitHub Projects\BankAccountPortfolio\BankAccountPortfolio\obj\Debug\BankAccountPortfolio.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\GitHub Projects\BankAccountPortfolio\BankAccountPortfolio\obj\Debug\BankAccountPortfolio.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\GitHub Projects\BankAccountPortfolio\BankAccountPortfolio\bin\Debug\BankAccountPortfolio.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\GitHub Projects\BankAccountPortfolio\BankAccountPortfolio\bin\Debug\BankAccountPortfolio.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\GitHub Projects\BankAccountPortfolio\BankAccountPortfolio\obj\Debug\BankAccountPortfolio.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+Checking Account
+Account Holder: Barack Obama
+Account Number: 339873903
+Transaction: +$300 at 5/17/2017 10:26:37 PM Current Balance: $2300
+Checking Account
+Account Holder: JaeJin Oba
+Account Number: 637386067
+Transaction: +$5000 at 6/14/2017 5:25:20 PM Current Balance: $6000
